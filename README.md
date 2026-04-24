@@ -2,9 +2,13 @@
 
 # PRN: 25070123146
 
-AIM: To study different data normalization techniques and encoding methods in Pandas and Scikit-learn for converting categorical data into numerical form.
+## AIM:
 
-THEORY : pd.DataFrame(): Creates a structured tabular dataset from dictionary data.
+To study different data normalization techniques and encoding methods in Pandas and Scikit-learn for converting categorical data into numerical form.
+
+## THEORY :
+
+pd.DataFrame(): Creates a structured tabular dataset from dictionary data.
 
 print(): Displays output on the console.
 
@@ -44,4 +48,5 @@ Normalization on multiple columns: Applies scaling operations on selected column
 
 Categorical to numerical conversion: Required for machine learning models to process non-numeric data.
 
-CONCLUSION : In this experiment, we studied different normalization techniques such as Min-Max, Z-score, and Decimal Scaling to scale numerical data. We also learned how to convert categorical data into numerical form using Label Encoding and One-Hot Encoding. These techniques help improve model performance and data consistency. Overall, normalization and encoding are essential steps in data preprocessing.
+## CONCLUSION :
+In this experiment, we studied different normalization techniques such as Min-Max, Z-score, and Decimal Scaling to scale numerical data. We also learned how to convert categorical data into numerical form using Label Encoding and One-Hot Encoding. These techniques help improve model performance and data consistency. Overall, normalization and encoding are essential steps in data preprocessing.
